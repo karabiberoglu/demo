@@ -13,8 +13,9 @@
     { "id": 103, "name": "webUI", "productId": 11 }   
   ],
   "resources": [
-    { "id": 1001, "resource_key": "resources.taskName", "resource_value": "Görevler", "languageId" : 1 ,"componentId" : 103 }  
+    { "id": 1001, "resource_key": "resources.taskName", "resource_value": "Görevler", "languageId" : 1 ,"componentId" : 103 },
+    { "id": 1002, "resource_key": "resources.taskName", "resource_value": "Tasks", "languageId" : 2 ,"componentId" : 103 },
+    { "id": 1003, "resource_key": "error.notFoundRow", "resource_value": "Kayıt bulunamadı", "languageId" : 1 ,"componentId" : 103 },
+    { "id": 1004, "resource_key": "error.notFoundRow", "resource_value": "Row not found", "languageId" : 2 ,"componentId" : 103 }
   ]  
 }
-
-    

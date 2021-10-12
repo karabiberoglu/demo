@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "languages": [
+    { "id": 1, "name": "Türkçe", code : "tr" },
+    { "id": 2, "name": "English", code : "en"  }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+    { "id": 11, "name": "Nova", "version" : "1.0.0" },
+    { "id": 11, "name": "İys", "version" : "2.0.0" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "components": [
+    { "id": 101, "name": "task", "productId": 11 },
+    { "id": 102, "name": "hotel", "productId": 11 },
+    { "id": 103, "name": "webUI", "productId": 11" }    
+  ]
 }

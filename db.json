@@ -1,7 +1,7 @@
 {
   "languages": [
-    { "id": 1, "name": "Türkçe", code : "tr" },
-    { "id": 2, "name": "English", code : "en"  }
+    { "id": 1, "name": "Türkçe", "code" : "tr" },
+    { "id": 2, "name": "English", "code" : "en"  }
   ],
   "products": [
     { "id": 11, "name": "Nova", "version" : "1.0.0" },

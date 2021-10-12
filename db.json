@@ -11,7 +11,10 @@
     { "id": 101, "name": "task", "productId": 11 },
     { "id": 102, "name": "hotel", "productId": 11 },
     { "id": 103, "name": "webUI", "productId": 11 }   
-  ]
+  ],
+  "resources": [
+    { "id": 1001, "resource_key": "resources.taskName", "resource_value": "Görevler", "languageId" : 1 ,"componentId" : 103 }  
+  ]  
 }
 
     
